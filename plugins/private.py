@@ -26,7 +26,7 @@ from helpers.utils import delete, update, is_admin
 from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton, InputMediaDocument
 
 
-HOME_TEXT = "👋🏻 **Salut\Buna [{}](tg://user?id={})**, \n\nEu sunt @OTRmoviebot ! \nPot face stream video, Radio, YouTube & la fisiere de pe Telegram audio / video direct in grup pe voice chat. Hai sa ne bucuram impreuna de acest bot pe @filme4kpetelegram 😉! \n\n**Made With ❤️ By @OTRofficial ❌ LupiiDinHaita !** 🐺"
+HOME_TEXT = "👋🏻 **Salut\Buna [{}](tg://user?id={})**, \n\nEu sunt @OTRmoviebot ! \nPot face stream video, Radio, YouTube & la fisiere de pe Telegram audio / video direct in grup pe voice chat. Hai sa ne bucuram impreuna de acest bot pe @filme4kpetelegram 😉! \n\n**Made With ❤️ By @OTRofficial ❌ @LupiiDinHaita !** 🐺"
 HELP_TEXT = """
 🏷️ --**Cum sa setezi BOT'ul**-- :
 
